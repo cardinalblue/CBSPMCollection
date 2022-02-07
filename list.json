@@ -1,0 +1,15 @@
+{
+	"name": "CardinalBlue Swift Packages",
+  "overview": "The swift packages built by the CardinalBlue iOS team",
+  "keywords": [
+		"cardinalblue"
+	],
+  "packages": [
+    {
+      "url": "git@github.com:cardinalblue/CBUtilities.git"
+    }
+  ],
+  "author": {
+    "name": "CardinalBlue"
+  }
+}
